@@ -20,6 +20,14 @@ Foram utilizados os seguintes prompts no NotebookLM:
 
 Em todas as respostas retornadas pela IA, foi possível observar comunicação clara e referências às fontes utilizadas, evitando alucinações e garantindo maior confiabilidade das informações.
 
+![O que é inflação](imagens/o-que-e-inflacao.png)
+
+![Principais índices de inflação](imagens/principais-indices-de-inflacao.png)
+
+![Como a inflação afeta brasileiros](imagens/como-a-inflacao-afeta-brasieliros.png)
+
+![Como a inflação afeta investimentos](imagens/como-a-inflacao-afeta-investimentos.png)
+
 ---
 
 ## 3. Testando variações de prompt
@@ -37,6 +45,8 @@ Após a análise, a **variação 2** apresentou o melhor resultado. O uso de exe
 Nas variações 1 e 3, observou-se repetição excessiva de palavras e exemplos, além de menor diferenciação entre as abordagens. Faltou uma exploração mais criativa e específica em cada variação para gerar exemplos realmente distintos.
 
 A resposta da variação 2 foi selecionada como referência para este estudo.
+
+![Variação 2](imagens/variacao-dois.png)
 
 ---
 
