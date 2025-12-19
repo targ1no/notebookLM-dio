@@ -65,4 +65,4 @@ A resposta da variação 2 foi selecionada como referência para este estudo.
 
 ---
 
-📌 **Acesse o projeto clicando aqui!**
+📌 **[Acesse o projeto no LM clicando aqui!](https://notebooklm.google.com/notebook/fff7bd85-3a47-4ad5-bb60-97654d84be4e)**
